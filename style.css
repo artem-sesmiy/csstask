@@ -1,0 +1,10 @@
+.container {
+  background-color:rgb(240, 113, 9);
+  padding: 700px;
+}
+
+.container-content-item {
+  background-color:rgb(9, 128, 240);
+  padding:120px;
+  width:100% ;
+}
